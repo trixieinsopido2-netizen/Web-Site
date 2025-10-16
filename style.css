@@ -6,6 +6,7 @@ body {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
     color: #333;
+}
 
 
 .header {
@@ -14,7 +15,7 @@ body {
     padding: 2rem 0;
     text-align: center;
     box-shadow: 0 4px 20px rgba(0,0,0,0.1);
-    margin-bottom: 2rem
+    margin-bottom: 2rem;
 }
 
 .header h1 {
@@ -25,12 +26,13 @@ body {
     -webkit-text-fill-color: transparent;
     background-clip: text;
     font-weight: 700;
+}
 
 
 .header p {
     margin: 0.5rem 0 0 0;
     color: #666;
-    font-size: 1.2rem
+    font-size: 1.2rem;
 }
 
 .container {
@@ -385,3 +387,4 @@ select:focus {
     to { transform: translateX(0); opacity: 1; }
 
 }
+
