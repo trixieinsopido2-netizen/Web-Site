@@ -18,7 +18,7 @@ body {
     margin-bottom: 2rem;
 }
 
-.header h1 {
+.header  {
     margin: 0;
     font-size: 3rem;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -29,7 +29,7 @@ body {
 }
 
 
-.header p {
+.header p 
     margin: 0.5rem 0 0 0;
     color: #666;
     font-size: 1.2rem;
@@ -64,7 +64,7 @@ body {
     box-shadow: 0 20px 40px rgba(0,0,0,0.15);
 }
 
-.stat-card::before {
+.stat-card:before {
     content: '';
     position: absolute;
     top: 0;
@@ -387,4 +387,5 @@ select:focus {
     to { transform: translateX(0); opacity: 1; }
 
 }
+
 
