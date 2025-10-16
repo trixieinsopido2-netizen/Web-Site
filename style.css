@@ -5,8 +5,8 @@ body {
     padding: 0;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     min-height: 100vh;
-    color: #333
-}
+    color: #333;;
+}}
 
 
 .header {
@@ -387,6 +387,7 @@ select:focus {
     to { transform: translateX(0); opacity: 1; }
 
 }
+
 
 
 
